@@ -70,8 +70,11 @@ Use of PCA and LDA for classification of images. Case study was the MNIST data s
 - Classification and Clustering
 
 ### Assignment 5
+Tasked with separating the foreground and background of two videos, one of formula one racing on the Monte Carlo, 
+and the other of a skier going down a slope. Case study for Dynamic Mode Decomposition
 
 - Dynamic Mode decomposition
+- Extraction of foreground and background for image processing
 
 
 
